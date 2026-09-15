@@ -58,10 +58,8 @@ Performed sales data analysis using **Python and Pandas**.
 ---
 
 ### Task 3 – Power BI Dashboard
+Work completed
 
-**Status:** In Progress
-
-Planned analysis:
 - Sales KPIs
 - Sales by Category
 - Sales by Region
@@ -71,10 +69,8 @@ Planned analysis:
 ---
 
 ### Task 4 – SQL Business Insights
+ Work completed
 
-**Status:** In Progress
-
-Planned analysis:
 - Business-focused SQL queries
 - Sales insights
 - Product analysis
